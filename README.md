@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Charan Bokka
 
-![Engineer Avatar](https://cdn-icons-png.flaticon.com/512/1995/1995574.png)  
+![Profile Picture](https://avatars.githubusercontent.com/u/8067022336?v=4)  
 
 🎓 Industrial Engineer | Texas Tech University | 3 Years Experience  
 🚀 Passionate about Manufacturing Optimization, Lean Six Sigma, and Process Improvement  
@@ -22,4 +22,16 @@ I am an Industrial Engineer with a strong focus on optimizing manufacturing proc
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-1E90FF?style=flat&logo=solidworks&logoColor=white)  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C8_)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vkadiri21)  
+📧 cbokka@ttu.edu  
+
+---
+
+### ⚡ Fun Fact  
+I enjoy solving complex problems with simple, elegant solutions and am always excited to collaborate on innovative projects in manufacturing and data analytics!
