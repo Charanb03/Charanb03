@@ -27,6 +27,25 @@ I am an Industrial Engineer with a strong focus on optimizing manufacturing proc
 
 ---
 
+## 💼 Projects
+
+- ⚙️ **Operations Research for Kidney Paired Donation**  
+  Applied advanced optimization techniques in Python and Gurobi to develop a mathematical model that maximizes successful kidney transplants through optimal matching of donor-patient pairs in 2- and 3-way exchanges. Leveraged combinatorial optimization and decision analysis to improve healthcare resource allocation and operational efficiency within transplant programs.
+
+- 📊 **Service Efficiency Optimization at The Commons Using SIMIO Simulation Modeling**  
+  Designed and implemented a discrete-event simulation model with SIMIO to analyze complex service workflows, identify bottlenecks, and optimize resource allocation. This project employed Lean principles and queuing theory to enhance process flow, reduce wait times, and increase throughput, demonstrating practical applications of industrial engineering in service operations management.
+
+- 📈 **Automobile Acceleration Analysis Using Regression Modeling**  
+  Conducted statistical data analysis on the mtcars dataset to build robust regression models predicting quarter-mile time (qsec) based on key vehicle performance indicators. Utilized exploratory data analysis, multicollinearity diagnostics, and transformation techniques to refine predictive accuracy, highlighting skills in applied statistics and data-driven decision making.
+
+- 🔄 **Digital Twins for Supply Chain Management Optimization**  
+  Developed real-time virtual models (digital twins) of supply chains to simulate and monitor operational dynamics, predict disruptions, and improve responsiveness. This project integrated simulation, systems engineering, and process optimization methodologies to enhance supply chain visibility, resilience, and continuous improvement.
+
+- 🛠️ **Comprehensive Semiconductor Wafer Lapping Process Analysis**  
+  Performed an in-depth review of wafer lapping techniques, focusing on material selection, abrasive technologies, and process control innovations over three decades. Emphasized process optimization strategies, quality control, and lean manufacturing principles to improve product consistency and reduce cycle times in semiconductor manufacturing.
+
+---
+
 ## 🤝 Leadership & Volunteering
 
 - 🎓 **Texas Tech Graduate Indian Student Association**  
