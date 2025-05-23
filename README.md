@@ -8,11 +8,7 @@
 ---
 
 ## 📚 About Me  
-I am an Industrial Engineer with a strong focus on optimizing manufacturing processes, improving product quality, and driving operational excellence. With 3 years of experience, I specialize in lean manufacturing techniques, root cause analysis, and statistical process control to reduce waste and enhance productivity. I am skilled in leading cross-functional teams through Kaizen events and implementing continuous improvement strategies that deliver measurable business impact. My technical expertise includes process design, equipment layout optimization, and quality management system compliance. I am committed to leveraging data-driven insights and innovative problem-solving to streamline operations and foster a culture of sustainable growth and efficiency.
-
----
-
-> ## ✨ **"Excellence is not a singular act, but the continuous habit of improving, innovating, and pushing boundaries to achieve lasting impact."** ✨
+I am an Industrial Engineer with a strong focus on optimizing manufacturing processes, improving product quality, and driving operational excellence. With 3 years of experience, I specialize in lean manufacturing techniques, root cause analysis, and statistical process control to reduce waste and enhance productivity. I am skilled in leading cross-functional teams through Kaizen events and implementing continuous improvement strategies that deliver measurable business impact. My technical expertise includes process design, equipment layout optimization, quality management system compliance, and data-driven decision making. I am committed to leveraging innovative problem-solving and analytical skills to streamline operations and foster a culture of sustainable growth and efficiency.
 
 ---
 
@@ -23,6 +19,13 @@ I am an Industrial Engineer with a strong focus on optimizing manufacturing proc
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-1E90FF?style=flat&logo=solidworks&logoColor=white)  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)  
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-009933?style=flat&logo=lean&logoColor=white)  
+![DMAIC](https://img.shields.io/badge/DMAIC-FF6600?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmY2NjAwIi8+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIj5ETUFJQzwvdGV4dD48L3N2Zz4=)  
+![SPC](https://img.shields.io/badge/SPC-007ACC?style=flat&logo=chart&logoColor=white)  
+![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-5C5CFF?style=flat)  
+![Kaizen](https://img.shields.io/badge/Kaizen-009688?style=flat)  
+![Operations Research](https://img.shields.io/badge/Operations_Research-5A5A5A?style=flat)  
+![Simulation](https://img.shields.io/badge/Simulation-6A1B9A?style=flat)  
 
 ---
 
