@@ -27,6 +27,28 @@ I am an Industrial Engineer with a strong focus on optimizing manufacturing proc
 ![Operations Research](https://img.shields.io/badge/Operations_Research-5A5A5A?style=flat)  
 ![Simulation](https://img.shields.io/badge/Simulation-6A1B9A?style=flat)  
 
+## 🔧 Skills & Tools
+
+### 🏭 Industrial Engineering & Quality  
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-009933?style=flat&logo=lean&logoColor=white) 
+![DMAIC](https://img.shields.io/badge/DMAIC-FF6600?style=flat) 
+![SPC](https://img.shields.io/badge/SPC-007ACC?style=flat) 
+![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-5C5CFF?style=flat) 
+![Kaizen](https://img.shields.io/badge/Kaizen-009688?style=flat) 
+![Operations Research](https://img.shields.io/badge/Operations_Research-5A5A5A?style=flat) 
+![Simulation](https://img.shields.io/badge/Simulation-6A1B9A?style=flat)  
+
+### 💻 Technical & Analytical  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-F47F20?style=flat&logo=matlab&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)  
+
+### 🛠️ CAD & Design  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-1E90FF?style=flat&logo=solidworks&logoColor=white) 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)  
+
+
 ---
 
 ## 📫 Connect with Me  
