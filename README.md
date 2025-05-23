@@ -27,10 +27,33 @@ I am an Industrial Engineer with a strong focus on optimizing manufacturing proc
 
 ---
 
+## 🤝 Leadership & Volunteering
+
+- 🎓 **Texas Tech Graduate Indian Student Association**  
+  Strengthened alumni relations and managed public engagement initiatives to foster a supportive and culturally rich graduate community.
+
+- 🗂️ **Data Structuring Assistance – Texas Tech University Health Sciences Center (2024)**  
+  Volunteered across multiple departments to structure and standardize large datasets using Excel, enhancing data accessibility and improving workflow efficiency.
+
+---
+
+## 🏅 Awards & Honors
+
+- 🎓 **Merit Scholarship – Texas Tech University**  
+  Awarded for academic excellence during Master’s program, recognizing outstanding performance and dedication.
+
+- 🏆 **Best Mechanical Engineering Design Project – Jawaharlal Nehru Technological University, Hyderabad (JNTUH)**  
+  Recognized for innovative mechanical design and optimization, demonstrating strong engineering and problem-solving skills.
+
+- 🏅 **Academic Excellence Award – JNTUH**  
+  Honored for outstanding academic performance and application of engineering principles throughout the Mechanical Engineering program.
+
+---
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
-📧 charannb3@gmail.com  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charannb3@gmail.com)
 
 ---
 
