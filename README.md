@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Charan Bokka
 
-![Profile Picture](https://avatars.githubusercontent.com/u/8067022336?v=4)  
+![Profile Picture](https://cbsmn.com/wp-content/uploads/2020/08/AdobeStock_277264567-2-2-scaled.jpeg)  
 
 🎓 Industrial Engineer | Texas Tech University | 3 Years Experience  
 🚀 Passionate about Manufacturing Optimization, Lean Six Sigma, and Process Improvement  
